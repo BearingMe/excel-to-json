@@ -1,0 +1,24 @@
+{
+  "name": "excel-2-json",
+  "version": "0.0.1",
+  "description": "-",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "-",
+    "dev": "ts-node src/app.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "smith",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
